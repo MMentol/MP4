@@ -74,7 +74,7 @@
             <div class="headbanner">
                 <h1 style="display:inline">
                     <center>
-                        <img src="img/shopping.png" />[My Shopping Cart]
+                        <img src="sources/shopping.png" />[My Shopping Cart]
                     </center>
                 </h1>
             </div>
