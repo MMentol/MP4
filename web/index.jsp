@@ -99,7 +99,8 @@
                 </div>
             </div>
             <div class="myfooter">
-                <h3 style="font-weight:normal; padding-left:10px">&copy;This Sample Project is Designed and Developed by Dilukshan Mahendra</h3>
+                <h3 style="font-weight:normal; padding-left:10px">&copy;This Sample Project is Designed and Developed by Dilukshan Mahendra</h3><br>
+                <h3 style="font-weight:normal; padding-left:10px">&copy;babe pls respond i showed u my github repository</h3>
             </div>
         </div>
     </body>
